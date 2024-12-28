@@ -1,0 +1,44 @@
+C:\Users\Alumno\source\repos\Listas\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Listas\Listas\obj\Debug\Listas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\Listas\Listas\obj\Debug\Listas.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Listas\Listas\obj\Debug\Listas.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\Alumno\source\repos\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\Alumno\source\repos\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\Alumno\source\repos\Listas\Listas\obj\Debug\Listas.Form1.resources
+C:\Users\Alumno\source\repos\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\Alumno\source\repos\Listas\Listas\obj\Debug\Listas.pdb
+C:\Users\gatopk\Desktop\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\gatopk\Desktop\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\gatopk\Desktop\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\gatopk\Desktop\Listas\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+C:\Users\gatopk\Desktop\Listas\Listas\obj\Debug\Listas.csproj.SuggestedBindingRedirects.cache
+C:\Users\gatopk\Desktop\Listas\Listas\obj\Debug\Listas.Form1.resources
+C:\Users\gatopk\Desktop\Listas\Listas\obj\Debug\Listas.Properties.Resources.resources
+C:\Users\gatopk\Desktop\Listas\Listas\obj\Debug\Listas.csproj.GenerateResource.cache
+C:\Users\gatopk\Desktop\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\gatopk\Desktop\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\gatopk\Desktop\Listas\Listas\obj\Debug\Listas.pdb
+C:\Users\gatopk\Desktop\Nueva carpeta\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\gatopk\Desktop\Nueva carpeta\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\gatopk\Desktop\Nueva carpeta\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\gatopk\Desktop\Nueva carpeta\Listas\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+C:\Users\gatopk\Desktop\Nueva carpeta\Listas\Listas\obj\Debug\Listas.csproj.SuggestedBindingRedirects.cache
+C:\Users\gatopk\Desktop\Nueva carpeta\Listas\Listas\obj\Debug\Listas.Form1.resources
+C:\Users\gatopk\Desktop\Nueva carpeta\Listas\Listas\obj\Debug\Listas.Properties.Resources.resources
+C:\Users\gatopk\Desktop\Nueva carpeta\Listas\Listas\obj\Debug\Listas.csproj.GenerateResource.cache
+C:\Users\gatopk\Desktop\Nueva carpeta\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\gatopk\Desktop\Nueva carpeta\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\gatopk\Desktop\Nueva carpeta\Listas\Listas\obj\Debug\Listas.pdb
+C:\Users\gatopk\source\repos\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\gatopk\source\repos\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\gatopk\source\repos\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\gatopk\source\repos\Listas\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+C:\Users\gatopk\source\repos\Listas\Listas\obj\Debug\Listas.csproj.SuggestedBindingRedirects.cache
+C:\Users\gatopk\source\repos\Listas\Listas\obj\Debug\Listas.Form1.resources
+C:\Users\gatopk\source\repos\Listas\Listas\obj\Debug\Listas.Properties.Resources.resources
+C:\Users\gatopk\source\repos\Listas\Listas\obj\Debug\Listas.csproj.GenerateResource.cache
+C:\Users\gatopk\source\repos\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\gatopk\source\repos\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\gatopk\source\repos\Listas\Listas\obj\Debug\Listas.pdb

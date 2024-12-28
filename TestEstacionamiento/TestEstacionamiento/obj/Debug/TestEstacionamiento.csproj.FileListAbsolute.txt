@@ -1,0 +1,8 @@
+C:\Users\gatopk\source\repos\TestEstacionamiento\TestEstacionamiento\bin\Debug\TestEstacionamiento.exe.config
+C:\Users\gatopk\source\repos\TestEstacionamiento\TestEstacionamiento\bin\Debug\TestEstacionamiento.exe
+C:\Users\gatopk\source\repos\TestEstacionamiento\TestEstacionamiento\bin\Debug\TestEstacionamiento.pdb
+C:\Users\gatopk\source\repos\TestEstacionamiento\TestEstacionamiento\obj\Debug\TestEstacionamiento.csproj.AssemblyReference.cache
+C:\Users\gatopk\source\repos\TestEstacionamiento\TestEstacionamiento\obj\Debug\TestEstacionamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\gatopk\source\repos\TestEstacionamiento\TestEstacionamiento\obj\Debug\TestEstacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\gatopk\source\repos\TestEstacionamiento\TestEstacionamiento\obj\Debug\TestEstacionamiento.exe
+C:\Users\gatopk\source\repos\TestEstacionamiento\TestEstacionamiento\obj\Debug\TestEstacionamiento.pdb
