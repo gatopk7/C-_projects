@@ -1,0 +1,11 @@
+C:\Users\gatopk\source\repos\Componentes\Componentes\bin\Debug\Componentes.exe.config
+C:\Users\gatopk\source\repos\Componentes\Componentes\bin\Debug\Componentes.exe
+C:\Users\gatopk\source\repos\Componentes\Componentes\bin\Debug\Componentes.pdb
+C:\Users\gatopk\source\repos\Componentes\Componentes\obj\Debug\Componentes.csproj.AssemblyReference.cache
+C:\Users\gatopk\source\repos\Componentes\Componentes\obj\Debug\Componentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\gatopk\source\repos\Componentes\Componentes\obj\Debug\Componentes.Form1.resources
+C:\Users\gatopk\source\repos\Componentes\Componentes\obj\Debug\Componentes.Properties.Resources.resources
+C:\Users\gatopk\source\repos\Componentes\Componentes\obj\Debug\Componentes.csproj.GenerateResource.cache
+C:\Users\gatopk\source\repos\Componentes\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\gatopk\source\repos\Componentes\Componentes\obj\Debug\Componentes.exe
+C:\Users\gatopk\source\repos\Componentes\Componentes\obj\Debug\Componentes.pdb

@@ -1,0 +1,12 @@
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\bin\Debug\Custioniario.exe.config
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\bin\Debug\Custioniario.exe
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\bin\Debug\Custioniario.pdb
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\obj\Debug\Custioniario.csproj.AssemblyReference.cache
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\obj\Debug\Custioniario.csproj.SuggestedBindingRedirects.cache
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\obj\Debug\Custioniario.Form1.resources
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\obj\Debug\Custioniario.Properties.Resources.resources
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\obj\Debug\Custioniario.csproj.GenerateResource.cache
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\obj\Debug\Custioniario.csproj.CoreCompileInputs.cache
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\obj\Debug\Custioniario.exe
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\obj\Debug\Custioniario.pdb
+C:\Users\gatopk\source\repos\Custioniario\Custioniario\obj\Debug\Custioniario.Form2.resources

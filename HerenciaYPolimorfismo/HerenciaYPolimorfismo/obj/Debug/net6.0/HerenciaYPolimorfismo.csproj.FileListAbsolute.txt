@@ -1,0 +1,15 @@
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\net6.0\HerenciaYPolimorfismo.exe
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\net6.0\HerenciaYPolimorfismo.deps.json
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\net6.0\HerenciaYPolimorfismo.runtimeconfig.json
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\net6.0\HerenciaYPolimorfismo.dll
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\bin\Debug\net6.0\HerenciaYPolimorfismo.pdb
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.AssemblyInfo.cs
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.dll
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\ref\HerenciaYPolimorfismo.dll
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.pdb
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\HerenciaYPolimorfismo.genruntimeconfig.cache
+C:\Users\gatopk\source\repos\HerenciaYPolimorfismo\HerenciaYPolimorfismo\obj\Debug\net6.0\refint\HerenciaYPolimorfismo.dll
